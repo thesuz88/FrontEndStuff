@@ -1,0 +1,26 @@
+h1,h3{
+  font-family: "Comic Sans MS";
+  text-align: center;
+  color: blue;
+}
+
+p{
+  display: span;
+  border: 10px ridge silver;
+  color: white;
+  text-align: center;
+  font-family: "Comic Sans MS";
+  font-size: 14pt;
+ }
+button{
+  font-family: "Comic Sans MS";
+  color: White;
+  background-Color: Green;
+}
+#checkout{
+  background-color: red;
+  
+}
+body{
+  background-color: Black;
+}
